@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-vscode.cpptools-extension-pack",
+    "ms-vscode.cmake-tools",
+    "josetr.cmake-language-support-vscode",
+    "constneo.vscode-convert-windows-path",
+    "vscjava.vscode-java-pack"
+  ]
+}
